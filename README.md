@@ -4,7 +4,9 @@
 This project analyzes the Nashville Housing dataset to demonstrate end-to-end data analysis using **SQL and Python**.
 The focus is on data cleaning, validation, exploratory analysis, and generating business-ready insights.
 
----
+**Data Description **
+
+This project uses the Nashville Housing dataset, which contains residential property sale transactions. Key attributes include sale price, sale date, finished area, acreage, property grade, year built, and parcel identifiers. The dataset reflects real-world data quality challenges such as missing values, duplicates, and inconsistent formats.---
 
 ## 🧰 Tools & Technologies
 - SQL (data cleaning, validation, aggregations)
@@ -34,8 +36,4 @@ This project demonstrates practical **SQL + Python** skills commonly used in **D
 ## 📌 Notes
 This repository is part of my analytics portfolio and represents a real-world style analysis project.
 
-**Data Description **
 
-This project uses the Nashville Housing dataset, which contains residential property sale transactions.
-Key attributes include sale price, sale date, finished area, acreage, property grade, year built, and parcel identifiers.
-The dataset reflects real-world data quality challenges such as missing values, duplicates, and inconsistent formats.
